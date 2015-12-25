@@ -146,10 +146,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="1259.4151"
+     inkscape:cx="96.330891"
      inkscape:cy="1057.4835"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer6"
      showgrid="true"
      units="in"
      inkscape:showpageshadow="false"
@@ -186,9 +186,21 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="zero">
+    <rect
+       style="display:inline;opacity:1;fill:#fdfdfd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.28194404px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect5921"
+       width="1430.0901"
+       height="191.10638"
+       x="6.1409721"
+       y="5.2526011" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="zero fret"
-     style="display:inline;opacity:0.13530656">
+     style="display:inline;opacity:0.05">
     <rect
        style="display:inline;opacity:1;fill:url(#linearGradient5792);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.28194404px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5794)"
        id="rect5779"
@@ -201,7 +213,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="radius"
-     style="display:inline;opacity:0.14799152">
+     style="display:inline;opacity:0.1">
     <rect
        y="5.2526011"
        x="6.1409721"
@@ -214,10 +226,11 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="frets"
-     style="display:inline;opacity:0.19868996">
+     style="display:inline;opacity:0.2">
     <g
        id="g5882"
-       transform="translate(0,-877.5)">
+       transform="translate(0,-877.5)"
+       style="">
       <path
          inkscape:connector-curvature="0"
          id="path5808"
